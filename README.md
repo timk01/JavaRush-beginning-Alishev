@@ -1,1 +1,1 @@
-# JavaRush-2022
+# JavaRush-2022, from scratch
